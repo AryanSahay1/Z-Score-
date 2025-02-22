@@ -1,1 +1,5 @@
-# Z-Score-
+streamlit
+pandas
+numpy
+yfinance
+matplotlib
